@@ -44,3 +44,5 @@ export class DetailsComponent implements OnInit {
     );
   }
 }
+
+//teste pages
